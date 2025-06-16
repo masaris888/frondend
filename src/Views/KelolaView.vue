@@ -1,4 +1,4 @@
-<!-- halaman kelola kamar -->
+<!-- membuat halaman kelola kamar -->
 <template>
   <div class="p-6 max-w-2xl mx-auto">
     <h2 class="text-3xl font-bold mb-6 text-center text-gray-800">
