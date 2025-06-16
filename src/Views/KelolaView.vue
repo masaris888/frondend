@@ -91,6 +91,7 @@ export default {
   mounted() {
     this.getKamars();
   },
+  //panggil endpoint Apinya disetiap method
   methods: {
     getKamars() {
       fetch("https://kost-backend.alfarizi.workers.dev/kamar")
