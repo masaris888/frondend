@@ -1,4 +1,4 @@
-<!-- halaman home -->
+<!-- desain halaman home -->
 <template>
   <div class="min-h-screen bg-gray-100">
     <!-- Hero -->
