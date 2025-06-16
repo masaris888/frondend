@@ -1,4 +1,4 @@
-<!-- navbar -->
+<!--membuat navbar -->
 <template>
   <nav class="bg-green-600 text-white p-4 flex justify-between items-center">
     <h1 class="text-xl font-bold">KostKu</h1>
@@ -12,12 +12,10 @@
 </template>
 <!-- end navbar -->
 
-
 <script>
 export default {
-    name: 'NavbarView',
+  name: "NavbarView",
 };
 </script>
 
-<style>
-</style>
+<style></style>
